@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mpitjana
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning HTML, CSS, JavasSript, Python and PHP 
+- 🌱 I specialize in HTML, CSS, JavasScript and MySQL, and currently learning Python and PHP 
 - 💞️ I’m looking to collaborate on Web development 
 - 📫 How to reach me 
 christianojockey@gmail.com 
